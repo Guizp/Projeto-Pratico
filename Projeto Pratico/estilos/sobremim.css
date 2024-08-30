@@ -1,0 +1,150 @@
+* {
+    margin: 0px;
+}
+
+body {
+    background-color: #F4F1E8;
+}
+
+.icon {
+    border-radius: 100%;
+    margin: 10px 1480px 270px 15px;
+    max-width: 80px;
+}
+
+p {
+    color: #191919;
+    max-width: 650px;
+    line-height: 35px;
+    font-size: 25px;
+    text-align: left;
+    
+}
+
+h1 {
+    text-align: left;
+    font-size: 80px;
+    margin-left: 100px;
+    margin-bottom: 20px;
+    font-family: "Baskervville SC", serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+h3 {
+    font-size: 25px;
+}
+
+h6  {
+    text-align: left;
+    font-size: 30px;
+    font-weight: 50;
+    max-width: 700px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+}
+
+span {
+    color: #191919;
+    text-decoration: underline;
+}
+
+.container {
+    display: flex;
+    height: auto;
+    bottom: 0;
+}
+
+
+.container > div {
+    margin: 30px 30px 0px 0px;
+    align-items: center;
+    font-size: large;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.foto {
+    width: 400px;
+    margin-bottom: 50px;
+    margin-left: 780px;
+    position: relative;
+    bottom: 700px;
+    left: 500px;
+}
+
+.exp {
+    margin-bottom: 200px;
+    text-align: center;
+    margin-top: -270px;
+    margin-left: 55px;
+}
+
+.logos {
+    border-radius: 100%;
+    margin-left: 295px;
+    margin-right: 230px;
+    margin-bottom: 100px;
+    height: 130px;
+}
+
+.ifsp {
+    margin-left: 210px;
+    margin-bottom: 100px;
+}
+
+.jbt { 
+    margin-left: 410px;
+    margin-bottom: 100px;
+}
+
+.fiap {
+    margin-left: 540px;
+    margin-bottom: 100px;
+}
+
+.tec {
+   margin-left: 120px;
+   margin-bottom: 20px;
+   font-size: 20px;
+}
+
+.est {
+    margin-left: 400px;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+.mba {
+    margin-left: 490px;
+    margin-bottom: 20px;
+    font-size: 20px;
+
+}
+
+.ara {
+    margin-left: 240px;
+    margin-bottom: 150px;
+    font-size: 20px;
+    font-weight: 50;
+ }
+ 
+ .mac {
+     margin-left: 437px;
+     margin-bottom: 150px;
+     font-size: 20px;
+     font-weight: 50;
+ }
+ 
+ .an {
+     margin-left: 510px;
+     margin-bottom: 150px;
+     font-size: 20px;
+     font-weight: 50;
+ }
